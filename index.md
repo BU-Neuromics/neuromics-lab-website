@@ -1,7 +1,7 @@
 ---
 ---
 
-# PriyankaRoy5DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# We are a computational biology lab at Boston University. Our lab studies neurological/neurodegenerative disease, transcriptomics, and basic human genome questions using a combination of novel bioinformatic methodology, high-throughput sequencing data, high performance computing, and machine learning techniques. 
 
 
 
