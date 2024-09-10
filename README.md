@@ -1,5 +1,5 @@
 
-# PriyankaRoy5DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# BU Neuromics Lab Website
 
 Visit **[bu-neuromics.github.io/neuromics-lab-website](https://bu-neuromics.github.io/neuromics-lab-website)** 🚀
 
