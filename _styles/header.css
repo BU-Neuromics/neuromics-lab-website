@@ -89,6 +89,9 @@ nav {
   gap: 10px;
   font-family: var(--heading);
   text-transform: uppercase;
+  bottom: 0; /* Moves the navbar to the bottom of its container */
+  left: 0; /* Stretches the navbar to the left edge */
+  right: 0; /* Stretches the navbar to the right edge */
 }
 
 nav > a {
