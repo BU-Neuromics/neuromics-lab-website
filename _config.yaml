@@ -2,8 +2,8 @@
 title: Neuromics
 subtitle: Boston University
 description: We are a computational biology lab at Boston University led by Adam Labadorf. 
-header: images/background.jpg
-footer: images/background.jpg
+header: # images/background.jpg
+footer: # images/background.jpg
 proofer: false
 
 # site social media and other links
