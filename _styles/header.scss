@@ -148,6 +148,7 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
+    display: none; /* Hides the logo */
   }
 
   .title-text {
