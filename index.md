@@ -1,7 +1,7 @@
 ---
 ---
 
-# We are a computational biology lab at Boston University. Our lab studies neurological/neurodegenerative disease, transcriptomics, and basic human genome questions using a combination of novel bioinformatic methodology, high-throughput sequencing data, high performance computing, and machine learning techniques. 
+# We are a computational biology lab at Boston University that studies neurological disease, transcriptomics, and basic human genome questions using novel bioinformatic methodology, high performance computing, and machine learning techniques. 
 
 
 
