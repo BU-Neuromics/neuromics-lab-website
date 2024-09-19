@@ -11,12 +11,16 @@
   position: absolute;
   inset: 0;
   background-image: var(--image);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  background-color: #444444; /* Set the same background color here */
   opacity: 0.75;
   z-index: -1;
+}
+
+.header-background {
+  background-size: contain;
+  background-color: #444444; /* Set the same background color here */
 }
 
 /*# sourceMappingURL=background.css.map */
