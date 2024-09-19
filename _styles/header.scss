@@ -157,6 +157,7 @@ header:not([data-big]) {
       align-items: flex-end;
       flex-direction: column;
       width: 100%;
+      padding-top: 10px; /* Adds space between the background image and the navbar */
     }
   }
 }
