@@ -130,6 +130,7 @@ nav {
   flex-wrap: wrap;
   font-family: var(--heading);
   text-transform: uppercase;
+  padding-top: 10px; /* Adds space between the background image and the navbar */
 }
 
 nav > a {
