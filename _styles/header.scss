@@ -25,6 +25,13 @@ header {
   }
 }
 
+/* Header-specific background styling */
+header.header-background {
+  background-size: contain; /* Ensures the background image fits the header */
+  background-image: var(--image); /* Apply the background image */
+  background-color: #444444; /* Set the same background color here */
+}
+
 header a {
   color: var(--text);
   text-decoration: none;
