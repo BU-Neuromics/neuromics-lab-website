@@ -1,6 +1,5 @@
 .background {
   position: relative;
-  background-color: #444444; /* Set your desired background color here */
   background: var(--background);
   color: var(--text);
   z-index: 1;
@@ -18,9 +17,9 @@
   z-index: -1;
 }
 
-.header-background {
-  background-size: contain;
+header.header-background {
   background-color: #444444; /* Set the same background color here */
+  background-size: contain; /* Ensures the background image fits the header */
 }
 
 /*# sourceMappingURL=background.css.map */
