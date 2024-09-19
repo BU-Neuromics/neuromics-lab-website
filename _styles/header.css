@@ -7,6 +7,7 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
+  background-color: #444444; /* Set your desired background color */
   position: sticky !important;
   top: 0;
   z-index: 10 !important;
