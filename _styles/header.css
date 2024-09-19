@@ -1,4 +1,5 @@
 header {
+  position: relative; /* Ensure the header acts as the containing element for the absolute navbar */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -81,12 +82,25 @@ header a {
   content: "\f00d";
 }
 
-nav {
+/*nav {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   gap: 10px;
+  font-family: var(--heading);
+  text-transform: uppercase;
+}*/
+nav {
+  position: absolute; /* Allows precise positioning relative to the header */
+  bottom: 0; /* Positions the navbar at the bottom of the header */
+  left: 50%; /* Moves the navbar to the horizontal center */
+  transform: translateX(-50%); /* Adjusts the navbar to be centered based on its width */
+  display: flex;
+  justify-content: center; /* Keeps the items centered within the navbar */
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
   font-family: var(--heading);
   text-transform: uppercase;
 }
