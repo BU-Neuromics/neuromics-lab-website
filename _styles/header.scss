@@ -27,9 +27,16 @@ header {
 
 /* Header-specific background styling */
 header.header-background {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
   background-size: contain; /* Ensures the background image fits the header */
   background-image: var(--image); /* Apply the background image */
   background-color: #444444; /* Set the same background color here */
+  opacity: 0.75;
+  z-index: -1;
 }
 
 header a {
