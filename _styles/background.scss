@@ -3,6 +3,7 @@
 
 .background {
   position: relative;
+  background-color: #444444; /* Set your desired background color here */
   background: var(--background);
   color: var(--text);
   z-index: 1;
@@ -13,7 +14,8 @@
   position: absolute;
   inset: 0;
   background-image: var(--image);
-  background-size: cover;
+  //background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   opacity: 0.75;
